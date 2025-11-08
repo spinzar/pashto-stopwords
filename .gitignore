@@ -1,0 +1,26 @@
+# مجازی چاپیریال
+.venv/
+env/
+venv/
+
+# test 
+test-env/
+
+# د جوړولو موقتي فایلونه
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# ستاسو خصوصي ډاټا
+data/
+stopwords/
+*.log
+*.tmp
+*.bak
+
+# IDE فایلونه
+.vscode/
+.idea/
+*.swp
